@@ -10,13 +10,15 @@ Excel, more IAM policies (and slightly more existential dread when misconfigured
 - CompTIA Security+ (in progress)
 - Background in Big 4 risk management & financial audit   
 Still fluent in “control frameworks,” now increasingly fluent in “why is this port open to the entire internet?”
-##  Languages- English, Russian C2- French B1–B2--
+##  Languages
+- English, Russian C2
+- French B1–B2
 ## Location & work availability
 Generated with https://kome.ai
 - Based in Paris region
 - Available for in-person roles in Paris area
 - Open to remote opportunities worldwide
-- Authorized to work in France  --
+- Authorized to work in France  
 ##  Interests
 Outside of cloud labs and security configs:
 - Jazz  
@@ -28,5 +30,5 @@ A smart, slightly funny IT / cybersecurity team that:
 - can laugh when logs say “everything is fine” while everything is clearly not fine
 - believes humor is a legitimate security coping strategy--
 ## Contact
-ktlefloch@yahoo.com
+Katia @ ktlefloch@yahoo.com
 Feel free to reach out—especially if your environment has interesting problems, coffee, and preferably no production S3 buckets left public.
