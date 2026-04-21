@@ -14,7 +14,6 @@ Still fluent in “control frameworks,” now increasingly fluent in “why is t
 - English, Russian C2
 - French B1–B2
 ## Location & work availability
-Generated with https://kome.ai
 - Based in Paris region
 - Available for in-person roles in Paris area
 - Open to remote opportunities worldwide
