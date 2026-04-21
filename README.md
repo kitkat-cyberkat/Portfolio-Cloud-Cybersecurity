@@ -1,6 +1,4 @@
 #  Hello, world
-Welcome to my small but growing portfolio of cloud & cybersecurity projects.
-##  About me
 I am currently on a mission that could be summarized as:
 “I left Big 4 risk management & financial audit… and chose to argue with 
 firewalls instead of spreadsheets.”
